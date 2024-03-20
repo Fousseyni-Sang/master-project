@@ -1,0 +1,16 @@
+/home/fousseyni/SMR_Project/ros2_ws/src/install/camera_control_pkg/lib/camera_control_pkg/depth_processor
+/home/fousseyni/SMR_Project/ros2_ws/src/install/camera_control_pkg/share/ament_index/resource_index/package_run_dependencies/camera_control_pkg
+/home/fousseyni/SMR_Project/ros2_ws/src/install/camera_control_pkg/share/ament_index/resource_index/parent_prefix_path/camera_control_pkg
+/home/fousseyni/SMR_Project/ros2_ws/src/install/camera_control_pkg/share/camera_control_pkg/environment/ament_prefix_path.sh
+/home/fousseyni/SMR_Project/ros2_ws/src/install/camera_control_pkg/share/camera_control_pkg/environment/ament_prefix_path.dsv
+/home/fousseyni/SMR_Project/ros2_ws/src/install/camera_control_pkg/share/camera_control_pkg/environment/path.sh
+/home/fousseyni/SMR_Project/ros2_ws/src/install/camera_control_pkg/share/camera_control_pkg/environment/path.dsv
+/home/fousseyni/SMR_Project/ros2_ws/src/install/camera_control_pkg/share/camera_control_pkg/local_setup.bash
+/home/fousseyni/SMR_Project/ros2_ws/src/install/camera_control_pkg/share/camera_control_pkg/local_setup.sh
+/home/fousseyni/SMR_Project/ros2_ws/src/install/camera_control_pkg/share/camera_control_pkg/local_setup.zsh
+/home/fousseyni/SMR_Project/ros2_ws/src/install/camera_control_pkg/share/camera_control_pkg/local_setup.dsv
+/home/fousseyni/SMR_Project/ros2_ws/src/install/camera_control_pkg/share/camera_control_pkg/package.dsv
+/home/fousseyni/SMR_Project/ros2_ws/src/install/camera_control_pkg/share/ament_index/resource_index/packages/camera_control_pkg
+/home/fousseyni/SMR_Project/ros2_ws/src/install/camera_control_pkg/share/camera_control_pkg/cmake/camera_control_pkgConfig.cmake
+/home/fousseyni/SMR_Project/ros2_ws/src/install/camera_control_pkg/share/camera_control_pkg/cmake/camera_control_pkgConfig-version.cmake
+/home/fousseyni/SMR_Project/ros2_ws/src/install/camera_control_pkg/share/camera_control_pkg/package.xml
